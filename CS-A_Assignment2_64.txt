@@ -1,0 +1,39 @@
+Assignment 1(b)
+Name : Disha Khater
+Roll no: 64
+GR no: 12010067
+CS-A Batch 3
+---------------------------------------------------------------------------------------1. Basic Arithmetic Calculations
+
+OUTPUT:
+
+2. Conditional statements
+If-else
+
+OUTPUT:
+
+Switch case
+
+OUTPUT:
+
+3. Loops
+
+OUTPUT:
+
+4. Command Line Argument
+
+OUTPUT:
+
+5. Functions
+
+OUTPUT:
+
+6. String operations
+
+OUTPUT:
+
+7. Arrays
+
+OUTPUT:
+
+
